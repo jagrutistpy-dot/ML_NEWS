@@ -1,4 +1,4 @@
-#!/workspaces/ML_NEWS/.venv/bin/python3
+#!/workspaces/ML_NEWS/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
